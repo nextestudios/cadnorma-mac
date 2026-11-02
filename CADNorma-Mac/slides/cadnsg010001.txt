@@ -1,0 +1,16 @@
+Interrupção 01
+Interrupção 02
+Interrupção 03
+Desnível
+Escala Gráfica 01 (5m)
+Escala Gráfica 02 (10m)
+Linha de Centro
+Eixo de Simetria ou Eixo Simples
+Interrupção de Tubulação (Vista 100mm)
+Interrupção de Tubulação (Topo - 10mm)
+Coluna Vertical (50mm)
+Coluna Vertical (100mm)
+-
+-
+-
+-

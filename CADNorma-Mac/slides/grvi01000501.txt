@@ -1,0 +1,16 @@
+0.60 x 0.40 - Basculante Sem Grade
+0.80 x 0.40 - Basculante Sem Grade
+1.00 x 0.40 - Basculante Sem Grade
+0.60 x0.60 - Basculante Sem Grade
+0.80 x 0.60 - Basculante Sem Grade
+1.00 x 0.60 - Basculante Sem Grade
+1.20 x 0.60 - Basculante Sem Grade
+1.50 x 0.60 - Basculante Sem Grade
+2.00 x 0.60 - Basculante Sem Grade
+0.60 x 1.00 - Basculante Sem Grade
+0.60 x 1.20 - Basculante Sem Grade
+0.60 x 0.40 - Basculante com Grade Quadriculada
+0.80 x 0.40 - Basculante com Grade Quadriculada
+1.00 x 0.40 - Basculante com Grade Quadriculada
+0.60 x 0.60 - Basculante com Grade Quadriculada
+0.80 x 0.60 - Basculante com Grade Quadriculada

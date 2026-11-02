@@ -1,0 +1,4 @@
+1;190.00;Vaso Sanitário s/ Caixa Acomplada
+1;1.00;Vaso Sanitário c/ caixa Acoplada
+1;1.00;pia
+1;1.00;chuveiro

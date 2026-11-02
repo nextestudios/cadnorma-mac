@@ -1,0 +1,48 @@
+*CENTER2,Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+A,.75,-.125,.125,-.125
+*DASHDOT2,Dash dot (.5x) _._._._._._._._._._._._._._._.
+A,.25,-.125,0,-.125
+*DIVIDE2,Divide (.5x) __..__..__..__..__..__..__..__.._
+A,.25,-.125,0,-.125,0,-.125
+*DOT2,Dot (.5x) ........................................
+A,0,-.125
+*HIDDEN,Hidden __ __ __ __ __ __ __ __ __ __ __ __ __ __
+A,.25,-.125
+*HIDDEN2,Hidden (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+A,.125,-.0625
+*PHANTOM2,Phantom (.5x) ___ _ _ ___ _ _ ___ _ _ ___ _ _
+A,.625,-.125,.125,-.125,.125,-.125
+*TRILHO,Trilhos -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+A,.1,[TRACK1,c:/cadnorma/modelos/ltypeshp.shx,s=.075],.1
+*ATENSAO,Alta Tensao ---/\/\/\/---/\/\/\/---/\/\/\/
+A,0.3375,-.045,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,x=-.045,s=.045],-.09,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,r=180,x=.045,s=.045],-.09,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,x=-.045,s=.045],-.09,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,r=180,x=.045,s=.045],-.09,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,x=-.045,s=.045],-.09,[ZIG,c:/cadnorma/modelos/ltypeshp.shx,r=180,x=.045,s=.045],-.045
+*CERCA,Linha de Cerca ----x-----x----x-----x----x-----x--
+A,.5,-.15,["X",STANDARD,S=.1,R=0.0,X=-0.075,Y=-.05],-.05
+*INCENDIO,Linha de Incêndio ----+----+----+----+----+----+----
+A,.5,-.2,["+",STANDARD,S=.15,R=0.0,X=-0.125,Y=-.075],-.05
+*PRAIO,Linha de Pára-Raios ----/----/----/----/----/----/----
+A,.5,-.15,["/",STANDARD,S=.15,R=0.0,X=-0.1,Y=-.075],-.05
+*INTERRUP,Interrupção
+A,.6,-.04,[INTERRUP,c:/cadnorma/modelos/INTERRUP.shx,s=.1],-.04
+*INSTRUMENT,Instrumentação ----//----//----//----//----//----//----
+A,.5,-.15,["//",STANDARD,S=.15,R=0.0,X=-0.1,Y=-.075],-.2
+*SETA1,Seta1
+A,.173205,-.1,[SETA1,c:/cadnorma/modelos/SETA1.shx,s=.15],-.25359
+*SETA2,Seta2
+A,.385048,-.114952,[SETA2,c:/cadnorma/modelos/SETA2.shx,s=.1,R=0],-.118542
+*SETA3,Seta3 ---->>---->>---->>---->>---->>---->>----
+A,.5,-.15,[">>",STANDARD,S=.15,R=0.0,X=-0.1,Y=-.075],-.2
+*CIRCULO,Circulo
+A,.381458,-.118542,[CIRCULO,c:/cadnorma/modelos/circulo.shx,s=.1],-.118542
+*TERRA,Terra
+A,.5,-.005,[TERRA,TERRA,s=.2],-.4
+*ROCHA1,Rocha1
+A,.425,[ROCHA1,c:/cadnorma/modelos/rocha1.shx,s=.1],-.155
+*ROCHA2,Rocha2
+A,.5,[ROCHA2,c:/cadnorma/modelos/ROCHA2.shx,s=.18],-.1
+*CAPACITOR,Capacitor ----||----||----||----||----||----||----
+A,.5,-.15,["||",STANDARD,S=.15,R=0.0,X=-0.1,Y=-.075],-.001
+*PERIGO,Perigo
+A,.8,-.11,[PERIGO,c:/cadnorma/modelos/perigo.shx,y=-.016534,s=.15],-.11
+*CERCAELETR,Cerca Eletrificada
+A,.5,.25,[CERCAELETR,c:/cadnorma/modelos/cercaeletr.shx,x=-.015,s=.14],-.1

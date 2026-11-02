@@ -1,0 +1,1 @@
+cnmac : dialog { label = "CADNorma Mac - experimental"; : text { label = "Selecione um comando. Consulte a matriz de compatibilidade."; } : list_box { key = "comandos"; width = 58; height = 25; } ok_cancel; }

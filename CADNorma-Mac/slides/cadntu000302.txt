@@ -1,0 +1,16 @@
+Válvula operada a eletricidade
+Válvula c/ operação pneumática
+Válvula operada a Solenóide
+Válvula c/ operação hidráulica
+Válvula operada por êmbolo
+Válvula de abertura instantânea
+Válvula com dreno
+Válvula de Segurança
+Valvula de seguranca c/diafragma e carga p/mola
+Valvula de seguranca c/ contrapeso
+Valvula gaveta para ligacao de mangueira
+valvula globo para ligacao de mangueira
+Válvula de Comporta
+Válvula de bóia
+Válvula operada a bóia
+Válvula reguladora de pressão de gás

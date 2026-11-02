@@ -1,0 +1,16 @@
+Corte 05 - Esquerda (com Atributos)
+Corte 05 - Direita (com Atriutos)
+Corte 05 - Superior (com Atributos)
+Corte 05 - Inferior (com Atributos)
+Corte 06 - Esquerda (com Atributo)
+Corte 05 - Direita (com Atributo)
+Corte 05 - Superior (com Atributo)
+Corte 05 - Inferior (com Atributo)
+Corte 06 - Esquerda (sem Texto)
+Corte 06 - Direita (sem Texto)
+Corte 07 - Esquerda (sem Texto)
+Corte 07 - Direita (sem Texto)
+Corte 08 - Esquerda (sem Texto)
+Corte 08 - Direita (sem Texto)
+-
+-

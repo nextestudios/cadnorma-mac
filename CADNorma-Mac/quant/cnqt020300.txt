@@ -1,0 +1,4 @@
+2;2.00;Tudo de Esgoto 40mm
+2;2.50;Tubo de Esgoto 50mm
+2;3.00;Tubo de Esgoto 75mm
+2;1.00;Tubo de Esgoto 100mm

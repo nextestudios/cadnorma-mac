@@ -1,0 +1,4 @@
+sg;Símbolos Gerais
+aq;Arquitetura
+el;Instalações Elétricas
+tu;Tubulações

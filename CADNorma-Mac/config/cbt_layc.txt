@@ -1,0 +1,8 @@
+Cobertura
+4
+Cobertura
+2
+Cobertura_Hatch
+1
+Cobertura
+3

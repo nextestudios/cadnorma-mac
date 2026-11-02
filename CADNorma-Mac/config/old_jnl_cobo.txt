@@ -1,0 +1,5 @@
+15
+jnl_cobo_radio2
+10
+75
+jnl_cobo_vista

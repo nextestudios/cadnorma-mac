@@ -1,0 +1,16 @@
+Vaso 05 - vista superior
+Vaso 05 - vista esquerda
+Vaso 05 - vista direita
+Vaso 05 - vista frontal
+Vaso 06 - vista superior
+Vaso 06 - vista esquerda
+Vaso 06 - vista direita
+Vaso 06 - vista frontal
+Vaso 07 - vista superior
+Vaso 07 - vista esquerda
+Vaso 07 - vista direita
+Vaso 07 - vista frontal
+Vaso 08 (infantil) - vista superior
+Vaso 08 (infantil) - vista esquerda
+Vaso 08 (infantil) - vista direita
+Vaso 08 (infantil) - vista frontal

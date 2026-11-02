@@ -1,0 +1,16 @@
+1.00 x 0.60 - Basculante com Grade Quadriculada
+1.20 x 0.60 - Basculante com Grade Quadriculada
+1.50 x 0.60 - Basculante com Grade Quadriculada
+2.00 x 0.60 - Basculante com Grade Quadriculada
+0.60 x 1.00 - Basculante com Grade Quadriculada
+0.60 x 1.20 - Basculante com Grade Quadriculada
+0.60 x 1.40 - Basculante com Grade Quadriculada
+0.60 x 0.40 - Basculante com Grade Elo
+0.80 x 0.40 - Basculante com Grade Elo
+1.00 x 0.40 - Basculante com Grade Elo
+0.60 x 0.60 - Basculante com Grade Elo
+0.80 x 0.60 - Basculante com Grade Elo
+1.00 x 0.60 - Basculante com Grade Elo
+1.20 x 0.60 - Basculante com Grade Elo
+1.50 x 0.60 - Basculante com Grade Elo
+2.00 x 0.60 - Basculante com Grade Elo

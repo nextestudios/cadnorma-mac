@@ -1,0 +1,16 @@
+Caminhão 01 - vista superior
+Caminhão 01 - vista lateral
+Caminhão 01 - vista frontal
+Caminhão 01 - vista posterior
+Caminhão 02 - vista superior
+Caminhão 02 - vista lateral
+Caminhão 03 - vista superior
+Caminhão 03 - vista lateral
+Caminhão 04 - vista superior
+Caminhão 04 - vista lateral
+Caminhão 04 - vista frontal
+Caminhão 04 - vista posterior
+Caminhão 05 - vista superior
+Caminhão 05 - vista lateral
+Caminhão 06 - vista superior
+Caminhão 06 - vista lateral

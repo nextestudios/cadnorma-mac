@@ -1,0 +1,2 @@
+1;1.00;Chuveiro Elétrico
+1;1.00;Chuveiro Elétrico com Bomba

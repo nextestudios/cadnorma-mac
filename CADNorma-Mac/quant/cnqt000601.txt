@@ -1,0 +1,3 @@
+4;4.30;Pilar de concreto armado (CP-25)
+4;6.78;Pilar de concreto armado (CP-32)
+4;7.98;Pilar de concreto armado (CP-50)

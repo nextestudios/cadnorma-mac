@@ -1,0 +1,16 @@
+0.50 x 0.50 - Quadr., uma Báscula - Grade Quadr.
+0.80 x 0.60 - Quadr., uma Báscula - Grade Quadr.
+0.60 x 0.60 - Quadr., uma Báscula - Grade Quadr.
+0.60 x 0.40 - Quadr., uma Báscula - Grade Quadr.
+1.00 x 0.50 - Quadr., duas Básculas Horiz. - Grade Quadr.
+1.50 x 0.50 - Quadr., três Básculas Horiz. - Grade Quadr.
+0.50 x 1.00 - Quadr., duas Básculas Vert. - Grade Quadr.
+0.50 x 1.50 - Quadr., três Básculas Vert. - Grade Quadr.
+0.50 x 0.50 - Sem divisão - Grade Elo
+0.80 x 0.60 - Sem divisão - Grade Elo
+0.60 x 0.60 - Sem divisão - Grade Elo
+0.60 x 0.40 - Sem divisão - Grade Elo
+1.00 x 0.50 - Duas Básculas Horiz. - Grade Elo
+1.50 x 0.50 - Três Básculas Horiz. - Grade Elo
+0.50 x 1.00 - Duas Básculas Verticais - Grade Elo
+0.50 x 1.50 - Três Básculas Verticais - Grade Elo

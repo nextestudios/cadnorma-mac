@@ -1,0 +1,16 @@
+Bella (1) - 1.50 x 0.76 x  0.415 - Planta Baixa
+Bella (1) - 1.50 x 0.76 x  0.415 - Vista Lateral
+Bella (1) - 1.50 x 0.76 x  0.415 - Vista Frontal
+-
+Bella (2) - 1.65 x 0.83 x  0.415 - Planta Baixa
+Bella (2) - 1.65 x 0.83 x  0.415 - Vista Lateral
+Bella (2) - 1.65 x 0.83 x  0.415 - Vista Frontal
+-
+Bella (3) - 1.83 x 0.90 x  0.415 - Planta Baixa
+Bella (3) - 1.83 x 0.90 x  0.415 - Vista Lateral
+Bella (3) - 1.83 x 0.90 x  0.415 - Vista Frontal
+-
+Bella (4) - 1.83 x 1.10 x  0.415 - Planta Baixa
+Bella (4) - 1.83 x 1.10 x  0.415 - Vista Lateral
+Bella (4) - 1.83 x 1.10 x  0.415 - Vista Frontal
+-

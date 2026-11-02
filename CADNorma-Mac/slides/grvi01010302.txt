@@ -1,0 +1,16 @@
+1.00 x 0.60 - Simples com Grade
+1.20 x 0.60 - Duplo Horizontal com Grade
+0.60 x 0.80 - Simples com Grade
+0.80 x 0.80 - Simples com Grade
+1.00 x 0.80 - Simples com Grade
+1.20 x 0.80 - Duplo Horizontal com Grade
+0.60 x 1.00 - Simples com Grade
+0.80 x 1.00 - Simples com Grade
+0.60 x 1.40 - Duplo Vertical com Grade
+0.80 x 1.40 - Duplo Vertical com Grade
+-
+-
+-
+-
+-
+-

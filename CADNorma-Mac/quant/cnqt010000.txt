@@ -1,0 +1,2 @@
+1;1.00;Luminária fluorescente 2x40w
+1;1.00;Luminária fluorescente 4x40w

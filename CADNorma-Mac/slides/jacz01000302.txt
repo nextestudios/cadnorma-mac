@@ -1,0 +1,16 @@
+Regina G2 (5) - 1.80 x 0.90 x 0.45 - Planta Baixa
+Regina G2 (5) - 1.80 x 0.90 x 0.45 - Vista Lateral
+Regina G2 (5) - 1.80 x 0.90 x 0.45 - Vista Frontal
+-
+Regina G4 (1) - 1.40 x 0.90 x 0.45 - Planta Baixa
+Regina G4 (1) - 1.40 x 0.90 x 0.45 - Vista Lateral
+Regina G4 (1) - 1.40 x 0.90 x 0.45 - Vista Frontal
+-
+Regina G4 (2) - 1.50 x 0.90 x 0.45 - Planta Baixa
+Regina G4 (2) - 1.50 x 0.90 x 0.45 - Vista Lateral
+Regina G4 (2) - 1.50 x 0.90 x 0.45 - Vista Frontal
+-
+Regina G4 (3) - 1.60 x 0.90 x 0.45 - Planta Baixa
+Regina G4 (3) - 1.60 x 0.90 x 0.45 - Vista Lateral
+Regina G4 (3) - 1.60 x 0.90 x 0.45 - Vista Frontal
+-

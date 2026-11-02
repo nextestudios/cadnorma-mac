@@ -1,0 +1,16 @@
+Cuba 17 - diâm. 30cm
+Cuba 18 - diâm. 34cm
+Cuba 19 - diâm. 36cm
+Cuba 20 - diâm. 38cm
+Cuba 21 - diâm. 30cm
+Cuba 22- diâm. 34cm
+Cuba 23 - diâm. 36cm
+Cuba 24- diâm. 38cm
+Bancada 01 - corte - com torneira de pia (simples ou dupla) e sifão.
+Bancada 02 - vista frontal - com torneira de pia (simples)  e sifão.
+Bancada 03 - vista frontal - com torneira de pia (dupla) e sifão.
+Bancada 04 - corte - cuba com sifão.
+Bancada 05 - corte - com torneira de parede (simples ou dupla) e sifão.
+Bancada 06 - vista frontal - com torneira de parede (simples) e sifão.
+Bancada 07 - vista frontal - com torneira de parede (dupla) e sifão.
+Bancada 08 - vista frontal - cuba com sifão.

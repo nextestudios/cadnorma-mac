@@ -1,0 +1,16 @@
+Tipo 05 - 4 x 20w - 60 x 40 cm
+Tipo 05 - 4 x 40w - 120 x 40 cm
+Tipo 06 - 4 x 60w - 60 x 40 cm
+Tipo 06 - 4 x 40w - 120 x 40 cm
+Tipo 07 - 1 x 20w - 60 x 15 cm
+Tipo 07 - 1 x 40w - 120 x 15 cm
+Tipo 08 - 1 x 20w - 60 x 15 cm
+Tipo 08 - 1 x 40w - 120 x 15 cm
+Tipo 07 - 2 x 20w - 60 x 20 cm
+Tipo 07 - 2 x 40w - 120 x 20 cm
+Tipo 08 - 2 x 20w - 60 x 20 cm
+Tipo 08 - 2 x 40w - 120 x 20 cm
+Tipo 07 - 4 x 20w - 60 x 40 cm
+Tipo 07 - 4 x 40w - 120 x 40 cm
+Tipo 08 - 4 x 20w - 60 x 40 cm
+Tipo 08 -  - 4 x 40w - 120 x 40 cm

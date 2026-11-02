@@ -1,0 +1,16 @@
+Freezer 01 - vista superior
+Freezer 01 - vista esquerda
+Freezer 01 - vista direita
+Freezer 01 - vista frontal
+Freezer 02 - vista superior
+Freezer 02 - vista esquerda
+Freezer 02 - vista direita
+Freezer 02 - vista frontal
+Freezer 03 - vista superior
+Freezer 03 - vista esquerda
+Freezer 03 - vista direita
+Freezer 03 - vista frontal
+Freezer 04 - vista superior
+Freezer 04 - vista esquerda
+Freezer 04 - vista direita
+Freezer 04 - vista frontal

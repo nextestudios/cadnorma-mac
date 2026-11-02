@@ -1,0 +1,16 @@
+Bidê 01 - vista superior
+Bidê 01 - vista esquerda
+Bidê 01 - vista direita
+Bidê 01 - vista frontal
+Bidê 02 - vista superior
+Bidê 02 - vista esquerda
+Bidê 02 - vista direita
+Bidê 02 - vista frontal
+Bidê 03 - vista superior
+Bidê 03 - vista esquerda
+Bidê 03 - vista direita
+Bidê 03 - vista frontal
+Bidê 04 - vista superior
+Bidê 04 - vista esquerda
+Bidê 04 - vista direita
+Bidê 04 - vista frontal

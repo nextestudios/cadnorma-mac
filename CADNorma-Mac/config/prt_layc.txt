@@ -1,0 +1,12 @@
+Porta
+3
+Porta_caixilho
+2
+Porta_Soleira
+1
+Porta
+1
+Porta
+2
+Porta
+1

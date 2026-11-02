@@ -1,0 +1,16 @@
+Vaso 01 - vista superior
+Vaso 01 - vista esquerda
+Vaso 01 - vista direita
+Vaso 01 - vista frontal
+Vaso 02 - vista superior
+Vaso 02 - vista esquerda
+Vaso 02 - vista direita
+Vaso 02 - vista frontal
+Vaso 03 - vista superior
+Vaso 03 - vista esquerda
+Vaso 03 - vista direita
+Vaso 03 - vista frontal
+Vaso 04 - vista superior
+Vaso 04 - vista esquerda
+Vaso 04 - vista direita
+Vaso 04 - vista frontal

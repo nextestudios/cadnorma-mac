@@ -1,0 +1,12 @@
+00;Arquitetura - Interior
+01;Arquitetura - Exterior
+02;Paisagismo e Urbanismo
+03;Instalações Elétricas
+04;Instalações Hidráulicas
+05;Instalações Sanitárias
+06;Instações de Incêndio
+07;Instalações de Ar Condicionado
+08;Instalações de Som
+09;Topografia e Cartografia
+10;Estruturas Metálicas
+11;Estruturas de Concreto

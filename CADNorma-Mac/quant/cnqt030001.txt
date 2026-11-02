@@ -1,0 +1,4 @@
+2;1.00;Tubo de Aço Carbono %%c 25mm
+2;1.00;Tubo de Aço Carbono %%c 32mm
+2;1.00;Tubo de Aço Carbono %%c 40mm
+2;1.00;Tubo de Aço Carbono %%c 50mm

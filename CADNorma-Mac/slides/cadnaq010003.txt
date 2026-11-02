@@ -1,0 +1,16 @@
+Torneira tipo 01 - simples, de bancada - vista superior
+Torneira tipo 01 - dupla, de bancada - vista superior
+Torneira tipo 01 - simples, de parede - vista superior
+Torneira tipo 01 - dupla, de parede - vista superior
+Torneira tipo 01 - simples, de bancada - vista frontal
+Torneira tipo 01 - dupla, de bancada - vista frontal
+Torneira tipo 01 - simples, de parede - vista frontal
+Torneira tipo 01 - dupla, de parede vista frontal.
+Torneira tipo 01 - simples ou dupla, de bancada - vista esquerda.
+Torneira tipo 01 - simples ou dupla,, de bancada - vista direita.
+Torneira tipo 01 - simples ou dupla, de parede - vista esquerda.
+Torneira tipo 01 - simples ou dupla, de bancada - vista direita.
+Torneira tipo 02 - simples, de bancada - vista superior
+Torneira tipo 02 - simples, de bancada - vista esquerda
+Torneira tipo 02 - simples, de bancada - vista direita
+Torneira tipo 02 - simples, de bancada - vista fronal

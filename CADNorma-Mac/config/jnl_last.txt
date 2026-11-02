@@ -1,0 +1,10 @@
+21
+200
+5
+jnl_center
+5
+15
+2
+0
+jnl_larg_radio1
+80

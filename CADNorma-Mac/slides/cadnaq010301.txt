@@ -1,0 +1,16 @@
+Geladeira 01 - vista superior
+Geladeira 01 - vista esquerda
+Geladeira 01 - vista direita
+Geladeira 01 - vista frontal
+Geladeira 02 - vista superior
+Geladeira 02 - vista esquerda
+Geladeira 02 - vista direita
+Geladeira 02 - vista frontal
+Geladeira 03 - vista superior
+Geladeira 03 - vista esquerda
+Geladeira 03 - vista direita
+Geladeira 03 - vista frontal
+Geladeira 04 - vista superior (side by side)
+Geladeira 04 - vista esquerda
+Geladeira 04 - vista direita
+Geladeira 04 - vista frontal

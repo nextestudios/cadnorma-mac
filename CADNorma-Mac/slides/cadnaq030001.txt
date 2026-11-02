@@ -1,0 +1,16 @@
+Televisão 01 - 10" - vista superior
+Televisão 02 - 10" - vista lateral
+Televisão 03 - 10" - vista frontal
+Televisão 04 - 10" - vista superior
+Televisão 05 - 10" - vista frontal
+Televisão 06 - 10" - vista superior
+Televisão 07 - 14" - vista superior
+Televisão 08 - 14" - fixado na parede
+Televisão 09 - 14" - vista superior
+Televisão 10 - 17" - vista superior
+Televisão 11 - 17" - vista lateral
+Televisão 12 - 17" - vista frontal
+Televisão 13 - 20" - vista superior
+Televisão 14 - 29" - vista superior
+Televisão 15 - 29"  de plasma - vista superior
+Televisão 16 - 29"  de plasma - vista frontal

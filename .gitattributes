@@ -1,0 +1,8 @@
+*.dwg binary
+*.slb binary
+*.sld binary
+*.shx binary
+*.bmp binary
+*.lsp text eol=lf
+*.dcl text eol=lf
+*.command text eol=lf

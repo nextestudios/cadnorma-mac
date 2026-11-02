@@ -1,0 +1,16 @@
+F219 (2.19 x 1.28 x 0.39m) - Planta Baixa
+F219 (2.19 x 1.28 x 0.39m) - Vista Lateral
+F219 (2.19 x 1.28 x 0.39m) - Vista Frontal
+-
+F248 (2.48 x 1.47 x 0.44m) - Planta Baixa
+F248 (2.48 x 1.47 x 0.44m) - Vista Lateral
+F248 (2.48 x 1.47 x 0.44m) - Vista Frontal
+-
+F250 (2.5 x 1.5 x 0.5m) - Planta Baixa
+F250 (2.5 x 1.5 x 0.5m) - Vista Lateral
+F250 (2.5 x 1.5 x 0.5m) - Vista Frontal
+-
+F300 (3.0 x 2.0 x 0.6m) - Planta Baixa
+F300 (3.0 x 2.0 x 0.6m) - Vista Lateral
+F300 (3.0 x 2.0 x 0.6m) - Vista Frontal
+-

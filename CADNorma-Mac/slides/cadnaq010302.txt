@@ -1,0 +1,16 @@
+Geladeira 05 - vista superior (side by side).
+Geladeira 05 - vista esquerda
+Geladeira 05 - vista direita
+Geladeira 05 - vista frontal
+Frigobar 01 - vista superior
+Frigobar 01 - vista esquerda
+Frigobar 01 - vista direita
+Frigobar 01 - vista frontal
+Frigobar 02 - vista superior
+Frigobar 02 - vista esquerda
+Frigobar 02 - vista direita
+Frigobar 02 - vista frontal
+Frigobar 03 - vista superior
+Frigobar 03 - vista esquerda
+Frigobar 03 - vista direita
+Frigobar 03 - vista frontal
