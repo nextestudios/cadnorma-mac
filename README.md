@@ -112,4 +112,4 @@ Feche os desenhos de teste e remova dos caminhos de suporte apenas as cinco past
 
 ## Licença e créditos
 
-[Licença MIT](LICENSE). CADNorma original: Denio Guimarães. Adaptação e distribuição para Mac: Next Estúdios e colaboradores. A redistribuição sob MIT foi autorizada pelo responsável pela publicação.
+[Licença MIT](LICENSE). CADNorma original: Denio Guimarães. Adaptação e distribuição para Mac: Next Estúdios. A redistribuição sob MIT foi autorizada pelo responsável pela publicação.
